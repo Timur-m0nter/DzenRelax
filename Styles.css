@@ -1,0 +1,68 @@
+*{
+  margin-top: 5px;
+  margin-bottom: 0px;
+  margin-left: 0%;
+  margin-right: 5px;
+  -webkit-text-stroke-color: black;
+  -webkit-text-stroke-width: 1px;
+  font-family: Ar;
+  font-size: 25px;
+  text-decoration: none;
+  list-style: none;
+  
+}
+body{
+  background-image: url(file:///C:/Users/barot/Downloads/b13cacbc-82a3-4521-9bc4-9a5072f71453-4.webp);
+  background-repeat:no-repeat ;
+  background-position: center;
+  background-size: cover;
+}
+
+header{
+  margin-top: 50px;
+  color: green;
+  text-align: center;
+  .MainPhoto{
+    text-align: center;
+  }
+}
+.Rooms{
+  text-align: center;
+  color: green
+}
+.Contacts{
+  margin-left :  15px; ;  
+  margin-top: 100px;
+  color: blue;
+}
+.infoPhotos{
+  text-align: center;
+}
+.Options{
+  text-align: center;
+  color: green;
+}
+
+.product {
+  margin-left: 30px;
+  color: green;
+           display: flex;
+           align-items: center;
+       }     
+       .product-details {
+           flex: 1;
+       }
+       .price {
+           font-weight: bold;
+       }
+
+.Information{
+  margin-left: 15px;
+}
+.Products{
+  margin-top: 100px;
+}
+.Functions{
+  margin-top: 300px;
+  background-color: white;
+}
